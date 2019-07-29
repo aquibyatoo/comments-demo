@@ -27,5 +27,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "aquib yatoo",
+  "bugs": {
+    "url": "https://github.com/aquibyatoo/comments-demo/issues"
+  },
+  "homepage": "https://github.com/aquibyatoo/comments-demo/"
 }
